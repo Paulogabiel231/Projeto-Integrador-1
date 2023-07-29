@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding-left: 0;
+    font-family: tahoma;
+}
+
+.conteiner{
+    max-width: 1280px;
+    margin: 0 ;
+    padding: 0 auto;
+    
+
+}
+/*MENU*/
+header{
+    height: 120px;
+    background: linear-gradient(to bottom, #9D1311, #C8170E);
+}
+.logo img{
+    width: 120px;
+}
+.logo{
+    float: left;
+}
+.menu{
+    float: right;
+}
+.menu ul{
+    margin-top: 45px;
+}
+.menu li{
+    display: inline-block;
+    padding: 0 10px;
+}
+.menu a{
+    color: #9c9c9c;
+    text-decoration: dashed;
+}
+.menu a:hover{
+    color: #2f615e;
+}
+/*shop*/
+.brinco{
+    float: left;
+}
+.camisa{
+    float: left;
+}
+.durag{
+    float: left;
+}
